@@ -206,3 +206,152 @@ p{
     margin-top: 4rem;
     justify-content: center;
 }
+
+.menu h1{
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+}
+
+.menu span{
+    color: orangered;
+}
+
+.menu p{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.menu .row{
+    display: flex;
+    justify-content: center;
+}
+
+.menu .row .col-md-3{
+    margin-top: 3rem;
+}
+.menu .row .col-md-3 h3{
+    color: white;
+    font-weight: 600;
+    margin-top: 1rem;
+}
+
+.menu .row .col-md-3 img{
+    height: 20vh;
+}
+.menu .col-md-3 p{
+    margin-bottom: 1rem;
+}
+
+.box6{
+    background-color: #202020;
+    border-radius: 1rem;
+}
+.box6:hover{
+    background-color: orange;
+}
+.box7{
+    background-color: #202020;
+    border-radius: 1rem;
+}
+.box7:hover{
+    background-color: orange;
+}
+.box7 img{
+    margin-left: 5rem;
+    margin-bottom: 1rem;
+}
+.box8{
+    background-color: #202020;
+    border-radius: 1rem;
+}
+.box8:hover{
+    background-color: orange;
+}
+.box8 img{
+    margin-left: 5rem;
+    margin-bottom: 1rem;
+}
+.box9{
+    background-color: #202020;
+    border-radius: 1rem;
+}
+.box9:hover{
+    background-color: orange;
+}
+.box9 img{
+    margin-left: 3rem;
+}
+.box10{
+    background-color: #202020 ;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+.box10:hover{
+    background-color: orange;
+}
+.box11{
+    background-color: #202020 ;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+.box11:hover{
+    background-color: orange;
+}
+.box12{
+    background-color: #202020 ;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+.box12:hover{
+    background-color: orange;
+}
+
+.service{
+    margin-top: 4rem;
+}
+.service .col-md-6 h1{
+    color: white;
+}
+.box13{
+    background-color: #202020;
+}
+.box13 h4{
+    color: white;
+}
+
+.box14{
+    background-color: #202020;
+    margin-top: 1rem;
+}
+
+.box14 h4{
+    color: white;
+}
+
+.footer{
+    background-color: #202020;
+    margin-top: 8rem;
+    padding-top: 5rem;
+}
+
+.footer .col-md-3 h5{
+    margin-top: 1rem;
+    color: white;
+}
+
+.footer .col-md-3 a{
+    display: flex;
+}
+
+footer{
+    display: flex;
+}
+footer .left{
+    margin-left: 5rem;
+}
+footer .right{
+    margin-left: 50rem;
+}
